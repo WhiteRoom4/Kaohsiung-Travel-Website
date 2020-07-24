@@ -16,6 +16,7 @@ xhr.onload = function (){
         data = str.result.records;
     }else{
         console.log('資料錯誤！！');
+        alert('伺服器請求發生錯誤，請稍後再試！');
     }
 }
 
