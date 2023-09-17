@@ -7,10 +7,11 @@ Kaohsiung-Travel-Website
 * 此網路應用程式可以透過下拉式選單或點擊按鈕選擇想查詢的區域，就能顯示對應的景點資料。
   
   
-  # 2023.09.17 更新專案
+  ### 2023.09.17 更新專案
 * 替換已失效的資料來源
 * 下拉選單新增"全部區域"
 * 新增分頁功能  
-原先從高雄市政府資料開放平台抓取高雄旅遊網的景點資料，目前該資源已失效   
+  
+  原先從高雄市政府資料開放平台抓取高雄旅遊網的景點資料，目前該資源已失效   
 現在改成抓取六角學院 https://courses.hexschool.com/courses/670031/lectures/11949412 高雄旅遊網 JSON：  
 https://raw.githubusercontent.com/hexschool/KCGTravel/master/datastore_search.json
